@@ -13,7 +13,6 @@ import { VoyagersComponent } from './pages/voyagers/voyagers.component';
     BrowserModule,
     AppRoutingModule
   ],
-  providers: [],
-  bootstrap: []
+  providers: []
 })
 export class AppModule { }
