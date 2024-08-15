@@ -11,3 +11,8 @@ h1, h6, p {
 hr {
     background-color: gray !important;
 }
+
+.nav-link {
+    cursor: pointer;
+  }
+  

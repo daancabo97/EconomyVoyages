@@ -12,8 +12,6 @@ import { InicioComponent } from './pages/inicio/inicio.component'; // Componente
 import { VoyagersComponent } from './pages/voyagers/voyagers.component'; // Componente que maneja la página de "voyagers"
 
 
-
-
 @NgModule({
   declarations: [
     InicioComponent,
